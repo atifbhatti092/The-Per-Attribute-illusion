@@ -2,7 +2,7 @@
 
 Code and result files for the manuscript
 
-> M. A. Sultan and I. Shaukat, *The Per-Attribute ε Illusion: Matched-Budget Local versus Central Differential Privacy for Tabular Credit-Scoring Data* (submitted).
+> M. A. Sultan and I. Shoukat, *The Per-Attribute ε Illusion: Matched-Budget Local versus Central Differential Privacy for Tabular Credit-Scoring Data* (submitted).
 
 The study compares central differential privacy (DP logistic regression, DP Gaussian Naive Bayes) with local DP (Laplace noise, randomized response, noise-aware Naive Bayes, logistic regression) on nine public tabular datasets at **matched total ε**, runs a linkage attack and a membership-inference attack, evaluates a public-sample-guided budget allocation, and verifies the closed-form results of the paper numerically.
 
