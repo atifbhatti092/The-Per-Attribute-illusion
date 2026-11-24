@@ -1,0 +1,14 @@
+n=500 eA=1.0 eX=1.5: var_sim=2.4987e-03 exact=2.5117e-03 mean=0.1500 true=0.15  P11 formula 0.16512 vs matrix 0.16512
+n=4500 eA=0.3 eX=0.3: var_sim=5.2745e-02 exact=5.2707e-02 mean=0.1500 true=0.15  P11 formula 0.16270 vs matrix 0.16270
+n=900 eA=2.0 eX=0.7: var_sim=3.3853e-03 exact=3.3675e-03 mean=0.2000 true=0.2  P11 formula 0.20852 vs matrix 0.20852
+n=500 eA=3.0 eX=3.0: var_sim=5.8810e-04 exact=5.9109e-04 mean=0.2998 true=0.3  P11 formula 0.28394 vs matrix 0.28394
+
+required n (t=0.05, delta=0.05):
+1 D=0.2136 n_req= 64711
+2 D=0.5800 n_req= 8772
+3 D=0.8193 n_req= 4397
+5 D=0.9734 n_req= 3115
+eps=1: n=64711  P(|err|>=0.05) simulated = 0.00000  (Hoeffding guarantee <= 0.05)
+eps=2: n=8772  P(|err|>=0.05) simulated = 0.00000  (Hoeffding guarantee <= 0.05)
+eps=3: n=4397  P(|err|>=0.05) simulated = 0.00000  (Hoeffding guarantee <= 0.05)
+eps=5: n=3115  P(|err|>=0.05) simulated = 0.00000  (Hoeffding guarantee <= 0.05)

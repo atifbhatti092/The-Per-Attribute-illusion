@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the associated paper."
+title: "The Per-Attribute ε Illusion: code, results and figures"
+authors:
+  - family-names: Sultan
+    given-names: Muhammad Atif
+    email: atifbhatti865@gmail.com
+    affiliation: "Department of Computer Science, University of Lahore, Sargodha Campus, Pakistan"
+  - family-names: Shaukat
+    given-names: Ishwa
+    email: ishwa.shoukat@math.uol.edu.pk
+    affiliation: "Department of Mathematics, University of Lahore, Sargodha Campus, Pakistan"
+license: MIT
+repository-code: "https://github.com/[add-your-repository]"
